@@ -35,6 +35,8 @@ Each notebook is designed to build upon the previous one, starting from basic pr
 
 4. **Customize Prompts**: Feel free to modify the prompts according to your use case. Experiment with different variations and observe how they influence the responses from AI models.
 
+![Prompt Engineering](Prompt_engnearing.png)
+
 
 ## Appreciation
 
