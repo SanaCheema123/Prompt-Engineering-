@@ -1,5 +1,4 @@
 # Prompt-Engineering-
-# Prompt Engineering Practice Files
 
 ## Introduction
 
