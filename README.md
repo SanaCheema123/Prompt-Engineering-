@@ -35,12 +35,6 @@ Each notebook is designed to build upon the previous one, starting from basic pr
 
 4. **Customize Prompts**: Feel free to modify the prompts according to your use case. Experiment with different variations and observe how they influence the responses from AI models.
 
-## References
-
-- **Prompt Engineering by OpenAI**: [Link to official documentation or tutorials]
-- **Jupyter Notebooks on Prompt Engineering**: [Links to relevant educational resources]
-- **AI Prompting Techniques**: [Other helpful blogs, research papers, or resources]
-- **GitHub Repositories for Prompt Engineering**: [Links to any open-source repositories or papers]
 
 ## Appreciation
 
